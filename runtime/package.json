@@ -103,7 +103,7 @@
     "@types/lodash.get": "4.4.9",
     "@types/lodash.startswith": "4.2.9",
     "@types/node": "22.10.6",
-    "@types/qs": "6.9.17",
+    "@types/qs": "6.9.18",
     "@types/ws": "8.5.13",
     "common-tags": "1.8.2",
     "dotenv": "16.4.7",
