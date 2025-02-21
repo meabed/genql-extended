@@ -82,8 +82,8 @@
   },
   "dependencies": {
     "@gqlts/runtime": "^3.2.21",
-    "@graphql-tools/graphql-file-loader": "8.0.14",
-    "@graphql-tools/load": "8.0.14",
+    "@graphql-tools/graphql-file-loader": "8.0.15",
+    "@graphql-tools/load": "8.0.15",
     "browserify": "17.0.1",
     "colors": "1.4.0",
     "esmify": "2.1.1",

@@ -30,7 +30,7 @@
     "@emotion/styled": "11.14.0",
     "@gqlts/cli": "file:../../cli",
     "@gqlts/runtime": "file:../../runtime",
-    "@tanstack/react-query": "5.66.8",
+    "@tanstack/react-query": "5.66.9",
     "@types/js-cookie": "3.0.6",
     "apollo-boost": "0.4.9",
     "baby-i-am-faded": "4.0.14",
